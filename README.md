@@ -1,2 +1,1 @@
-# cv3
-timDog responsive website
+TinDog Starting Files
